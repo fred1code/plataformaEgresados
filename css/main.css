@@ -1,0 +1,42 @@
+html body {
+    background-color: #E7E7E7;
+    font-size: 15px;
+    font-family: 'Roboto', 'arial', sans-serif;
+    color: #707070;
+}
+
+.navbar {
+    margin: 0;
+}
+
+.navbar-brand.logo {
+    padding: 5px 10px 5px 10px;
+}
+
+.navbar-brand.texto {
+    padding-left: 10px;
+}
+
+.tilte {
+    margin-top: 10px;
+    font-size: 20px;
+    text-align: center;
+    color: dimgray;
+}
+
+.subtilte {
+    margin-top: 10px;
+    font-size: 15px;
+    text-align: center;
+    color: gray;
+}
+
+.form-input {
+    height: 33px;
+    margin: 2px auto 5px;
+}
+
+.form-title {
+    font-size: 15px;
+    text-align: left;
+}
